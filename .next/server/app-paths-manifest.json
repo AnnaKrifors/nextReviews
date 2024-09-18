@@ -1,5 +1,4 @@
 {
-  "/reviews/[slug]/page": "app/reviews/[slug]/page.js",
-  "/icon.png/route": "app/icon.png/route.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/icon.png/route": "app/icon.png/route.js"
 }
